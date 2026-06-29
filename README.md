@@ -35,7 +35,6 @@
 
 
 
-
 # interactify Connect App.
 
 Interactify is a full-stack social networking application built with the MERN stack. It provides users with a platform to connect, share, and interact with friends in a seamless and intuitive manner.
